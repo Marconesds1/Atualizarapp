@@ -1,5 +1,5 @@
 {
-  "Version": "4",
+  "Version": "2",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "https://raw.githubusercontent.com/Marconesds1/Updateapp/main/config.json",
@@ -33,7 +33,7 @@
       "Info": ""
     },
     {
-      "Name": "SECURITY 01",
+      "Name": "VIVO SECURITY 01",
       "FLAG": "vivo",
       "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
