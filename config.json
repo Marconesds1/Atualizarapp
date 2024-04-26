@@ -1,5 +1,5 @@
 {
-  "Version": "0",
+  "Version": "1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "sms aqui",
@@ -138,10 +138,9 @@
       "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=yhjq23.360.com.fail;alt4.aspmx.l.google.com;www.xhtsw.163.com.fail;www.storm.canny.io;www.reimaginetomorrow-qa.disney.com;www.minecraft.msgfocus.com;www.netflixawards.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;aspmx.l.google.com.469.it. 20secondenhandenwassen.nl;aspmx.l.google.com.469.it;alt2.aspmx.l.google.com.0088.tv;alt1.aspmx.l.google.com.123sexshop.be;alt2.aspmx.l.google.com.sac-surveyors.org;alt2.aspmx.l.google.com.meta-meta.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.18.28.182#104.19.239.25#104.19.242.25#104.16.51.111#104#19.241.93#104.19.240.93#162.159.152.26#162.159.153.238#13.33.252.3#104.18.99.70#104.18.98.70#172.64.154.143#104#17.64.225#74.119.118.149#172.64.152.140#172.65.251.78#104.16.239.166#104.18.33.113#www.pruftechnik.com#www.oiplace.com.br#www.usclaro.com#www.beha-amprobe.com",",
+      "ProxyIP": "104.18.28.182#104.19.239.25#104.19.242.25#104.16.51.111#104#19.241.93#104.19.240.93#162.159.152.26#162.159.153.238#13.33.252.3#104.18.99.70#104.18.98.70#172.64.154.143#104#17.64.225#74.119.118.149#172.64.152.140#172.65.251.78#104.16.239.166#104.18.33.113#www.pruftechnik.com#www.oiplace.com.br#www.usclaro.com#www.beha-amprobe.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     }
-
   ]
-}
+    }
