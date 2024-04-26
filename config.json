@@ -114,7 +114,7 @@
     },
     {
       "Name": "TIM VÁLIDO/ EXPIRADO 03",
-      "FLAG": "vivo",
+      "FLAG": "tim",
       "Payload": "HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n#HTTP/ [crlf][crlf]|[crlf]",
       "SNI": "",
       "TlsIP": "",
