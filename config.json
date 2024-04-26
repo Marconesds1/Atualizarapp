@@ -1,7 +1,7 @@
 {
-  "Version": "0",
+  "Version": "1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
-  "UrlUpdate": "Link Update aqui",
+  "UrlUpdate": "https://github.com/Marconesds1/Atualizarapp.git",
   "Sms": "sms aqui",
   "EmailFeedback": "seu email aqui",
   "UrlContato": "seu contato aqui",
@@ -10,7 +10,7 @@
   "UdpPort":"7100;7200;7300;7400;7500",
   "Servers": [
     {
-      "Name": "ESCOLHA O SERVIDOR",
+      "Name": "ESCOLHA O TESTEE",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "",
