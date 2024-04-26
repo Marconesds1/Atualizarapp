@@ -1,0 +1,37 @@
+{
+  "Version": "0",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
+  "UrlUpdate": "Link Update aqui",
+  "Sms": "sms aqui",
+  "EmailFeedback": "seu email aqui",
+  "UrlContato": "seu contato aqui",
+  "UrlTermos": "seu termo aqui",
+  "CheckUser": "true",
+  "UdpPort":"7100;7200;7300;7400;7500",
+  "Servers": [
+    {
+      "Name": "ESCOLHA O SERVIDOR",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "",
+      "CheckUser": "",
+      "ServerPort": "",
+      "SSLPort": "",
+      "USER": "",
+      "PASS": ""
+    },
+  ],
+  "Networks": [
+    {
+      "Name": "ESCOLHA A CONEXÃO",
+      "FLAG": "",
+      "Payload": "",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": ""
+    }
+
+  ]
+}
