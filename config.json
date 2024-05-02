@@ -1,5 +1,5 @@
 {
-  "Version": "14",
+  "Version": "15",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "https://raw.githubusercontent.com/Marconesds1/Updateapp/main/config.json",
@@ -35,7 +35,7 @@
     {
       "Name": "VIVO PRÉ TURBO 01",
       "FLAG": "vivo",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "141.193.213.11",
@@ -45,7 +45,7 @@
     {
       "Name": "VIVO PRÉ TURBO 02",
       "FLAG": "vivo",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.26.5.32",
@@ -55,7 +55,7 @@
     {
       "Name": "VIVO PRÉ TURBO 03",
       "FLAG": "vivo",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.239.166",
@@ -223,4 +223,4 @@
       "Info": "Ssl"
     }
   ]
-}
+    }
