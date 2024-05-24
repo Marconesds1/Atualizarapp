@@ -1,5 +1,5 @@
 {
-  "Version": "17",
+  "Version": "18",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "https://raw.githubusercontent.com/Marconesds1/Updateapp/main/config.json",
@@ -31,16 +31,6 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": ""
-    },
-    {
-      "Name": "VIVO PRÉ TURBO 01",
-      "FLAG": "vivo",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Websocket[crlf][split][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "141.193.213.11",
-      "ProxyPort": "80",
-      "Info": "Proxy"
     },
     {
       "Name": "VIVO SECURITY 01",
