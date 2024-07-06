@@ -1,5 +1,5 @@
 {
-  "Version": "19",
+  "Version": "1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "https://raw.githubusercontent.com/Marconesds1/Updateapp/main/config.json",
@@ -13,7 +13,7 @@
       "Name": "BR PREMIUM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "yw.marconesds.xyz",
+      "ServerIP": "191.235.34.49",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -38,7 +38,7 @@
       "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "209.14.2.130",
+      "ProxyIP": "191.235.34.49",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -48,7 +48,7 @@
       "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "209.14.2.130",
+      "ProxyIP": "191.235.34.49",
       "ProxyPort": "80",
       "Info": "Direct"
     },
@@ -58,7 +58,7 @@
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;mastercard.us;tim.com.br;vivo.com.br;claro.com.br;cloudflare.com.br;azure.com.br;condor.com.br;cnn.com;tiktok.com.br][crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "209.14.2.130",
+      "ProxyIP": "191.235.34.49",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -68,7 +68,7 @@
       "Payload": "[delay_split][lf]POLL / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;mastercard.us;tim.com.br;vivo.com.br;claro.com.br;cloudflare.com.br;azure.com.br;condor.com.br;cnn.com;tiktok.com.br][crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "209.14.2.130",
+      "ProxyIP": "191.235.34.49",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -78,14 +78,14 @@
       "Payload": "[delay_split][lf]HEAD / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;mastercard.us;tim.com.br;vivo.com.br;claro.com.br;cloudflare.com.br;azure.com.br;condor.com.br;cnn.com;tiktok.com.br][crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "209.14.2.130",
+      "ProxyIP": "191.235.34.49",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
       "Name": "VIVO SECURITY 04",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]HEAD / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]GET / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]POLL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]PUT / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]PATCH / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: 191.235.34.49[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]HEAD / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]GET / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]POLL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]PUT / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]PATCH / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.17.70.206",
@@ -118,7 +118,7 @@
       "Payload": "HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n#HTTP/ [crlf][crlf]|[crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "209.14.2.130",
+      "ProxyIP": "191.235.34.49",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
