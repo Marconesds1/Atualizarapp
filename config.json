@@ -1,5 +1,5 @@
 {
-  "Version": "1",
+  "Version": "2",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "https://raw.githubusercontent.com/Marconesds1/Updateapp/main/config.json",
@@ -53,7 +53,7 @@
       "Info": "Direct"
     },
     {
-      "Name": "VIVO SECURITY 01",
+      "Name": "VIVO SECURITY 03",
       "FLAG": "vivo",
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;mastercard.us;tim.com.br;vivo.com.br;claro.com.br;cloudflare.com.br;azure.com.br;condor.com.br;cnn.com;tiktok.com.br][crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
@@ -63,29 +63,9 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO SECURITY 02",
-      "FLAG": "vivo",
-      "Payload": "[delay_split][lf]POLL / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;mastercard.us;tim.com.br;vivo.com.br;claro.com.br;cloudflare.com.br;azure.com.br;condor.com.br;cnn.com;tiktok.com.br][crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "191.235.34.49",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO SECURITY 03",
-      "FLAG": "vivo",
-      "Payload": "[delay_split][lf]HEAD / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;mastercard.us;tim.com.br;vivo.com.br;claro.com.br;cloudflare.com.br;azure.com.br;condor.com.br;cnn.com;tiktok.com.br][crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "191.235.34.49",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
       "Name": "VIVO SECURITY 04",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: 191.235.34.49[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]HEAD / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]GET / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]POLL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]PUT / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]PATCH / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: 191.235.34.49[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]HEAD / HTTP/1.1[crlf]Host: 191.235.34.49[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]GET / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]POLL / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]PUT / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]PATCH / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.17.70.206",
@@ -127,7 +107,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.waze.com",
-      "TlsIP": "186.233.118.241",
+      "TlsIP": "191.235.34.49",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -137,7 +117,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "musicaclaro.com.br",
-      "TlsIP": "186.233.118.241",
+      "TlsIP": "191.235.34.49",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -147,7 +127,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "c.whatsapp.net",
-      "TlsIP": "186.233.118.241",
+      "TlsIP": "191.235.34.49",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -157,7 +137,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "web.whatsapp.com",
-      "TlsIP": "186.233.118.241",
+      "TlsIP": "191.235.34.49",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"    
@@ -167,7 +147,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "media.whatsapp.net",
-      "TlsIP": "186.233.118.241",
+      "TlsIP": "191.235.34.49",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -177,7 +157,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "twitter.com",
-      "TlsIP": "186.233.118.241",
+      "TlsIP": "191.235.34.49",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -187,7 +167,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.twitter.com",
-      "TlsIP": "186.233.118.241",
+      "TlsIP": "191.235.34.49",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
