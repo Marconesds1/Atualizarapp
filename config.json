@@ -1,5 +1,5 @@
 {
-  "Version": "1",
+  "Version": "2",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "4.228.64.208",
-      "CheckUser": "",
+      "CheckUser": "http://4.228.64.208:5001/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
