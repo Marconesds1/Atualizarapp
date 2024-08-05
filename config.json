@@ -1,5 +1,5 @@
 {
-  "Version": "6",
+  "Version": "8",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -38,7 +38,7 @@
       "Payload": "ACL / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "141.193.213.11;104.26.5.32;104.16.53.111;141.193.213.10141.193.213.11;104.16.239.166",
+      "ProxyIP": "141.193.213.11",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
