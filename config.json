@@ -1,5 +1,5 @@
 {
-  "Version": "8",
+  "Version": "1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -103,29 +103,29 @@
       "Info": "Proxy"
     },
     {
-      "Name": "TIM VÁLIDO / EXPIRADO 01",
+      "Name": "TIM SALDO EXPIRADO DDDs 01",
       "FLAG": "tim",
-      "Payload": "ACL / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
+      "Payload": "PROPPATCH http://mercadolivre.com.br HTTP/2[crlf]Host: http://mercadolivre.com.br[crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "::ffff:157.254.54.211",
+      "ProxyIP": "157.254.54.211",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
-      "Name": "TIM VÁLIDO / EXPIRADO 02",
+      "Name": "TIM SALDO EXPIRADO DDDs 02",
       "FLAG": "tim",
-      "Payload": "ACL / HTTP/1.1[lf]Host: [app_host] [lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
+      "Payload": "ACL http://1.1.1.1rotate= buzzfeed.com;mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com; myspace.com;mobile.google.com ;1.0.0.5[crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.18.28.182#104.19.239.25#104.19.242.25#104.16.51.111#104#19.241.93#104.19.240.93#162.159.152.26#162.159.153.238#13.33.252.3#104.18.99.70#104.18.98.70#172.64.154.143#104#17.64.225#74.119.118.149#172.64.152.140#172.65.251.78#104.16.239.166#104.18.33.113#www.pruftechnik.com#www.oiplace.com.br#www.usclaro.com#www.beha-amprobe.com",
+      "ProxyIP": "157.254.54.211",
       "ProxyPort": "80",
       "Info": "Direct"
     },
     {
-      "Name": "TIM VÁLIDO / EXPIRADO 03",
+      "Name": "TIM SALDO EXPIRADO DDDs 03",
       "FLAG": "tim",
-      "Payload": "HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n#HTTP/ [crlf][crlf]|[crlf]",
+      "Payload": "ACL HTTP/1.1[crlf]Host: community-dashbird.buzzfeed.com[crlf]X-Online-Host: [app_host][crlf]Connection:l llbj  Keep-Alive[crlf]User-Agent: [ua][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "157.254.54.211",
