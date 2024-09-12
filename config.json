@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -13,8 +13,8 @@
       "Name": "BR PREMIUM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "157.254.54.211",
-      "CheckUser": "http://157.254.54.211:5001/checkUser",
+      "ServerIP": "185.194.204.109",
+      "CheckUser": "http://185.194.204.109:5001/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -48,7 +48,7 @@
       "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "157.254.54.211",
+      "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -58,7 +58,7 @@
       "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "157.254.54.211",
+      "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
       "Info": "Direct"
     },
@@ -68,7 +68,7 @@
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;mastercard.us;tim.com.br;vivo.com.br;claro.com.br;cloudflare.com.br;azure.com.br;condor.com.br;cnn.com;tiktok.com.br][crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "157.254.54.211",
+      "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -78,7 +78,7 @@
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: 4.228.64.208[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]HEAD / HTTP/1.1[crlf]Host: 4.228.64.208[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]GET / HTTP/1.1[crlf]Host: 4.228.64.208[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]POLL / HTTP/1.1[crlf]Host: 4.228.64.208[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]PUT / HTTP/1.1[crlf]Host: yw.marconesds.xyz[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]#[delay_split][lf]PATCH / HTTP/1.1[crlf]Host: 4.228.64.208[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "157.254.54.211",
+      "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -108,7 +108,7 @@
       "Payload": "PROPPATCH http://mercadolivre.com.br HTTP/2[crlf]Host: http://mercadolivre.com.br[crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "157.254.54.211",
+      "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -118,7 +118,7 @@
       "Payload": "ACL http://1.1.1.1rotate= buzzfeed.com;mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com; myspace.com;mobile.google.com ;1.0.0.5[crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "157.254.54.211",
+      "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
       "Info": "Direct"
     },
@@ -128,7 +128,7 @@
       "Payload": "ACL HTTP/1.1[crlf]Host: community-dashbird.buzzfeed.com[crlf]X-Online-Host: [app_host][crlf]Connection:l llbj  Keep-Alive[crlf]User-Agent: [ua][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "157.254.54.211",
+      "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -137,7 +137,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.waze.com",
-      "TlsIP": "157.254.54.211",
+      "TlsIP": "185.194.204.109",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -147,7 +147,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "musicaclaro.com.br",
-      "TlsIP": "157.254.54.211",
+      "TlsIP": "185.194.204.109",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -157,7 +157,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "c.whatsapp.net",
-      "TlsIP": "157.254.54.211",
+      "TlsIP": "185.194.204.109",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -167,7 +167,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "web.whatsapp.com",
-      "TlsIP": "157.254.54.211",
+      "TlsIP": "185.194.204.109",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"    
@@ -177,7 +177,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "media.whatsapp.net",
-      "TlsIP": "157.254.54.211",
+      "TlsIP": "185.194.204.109",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -187,7 +187,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "twitter.com",
-      "TlsIP": "157.254.54.211",
+      "TlsIP": "185.194.204.109",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -197,7 +197,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.twitter.com",
-      "TlsIP": "157.254.54.211",
+      "TlsIP": "185.194.204.109",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
