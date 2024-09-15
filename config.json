@@ -1,5 +1,5 @@
 {
-  "Version": "5",
+  "Version": "6",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -22,16 +22,6 @@
     },
   ],
   "Networks": [
-    {
-      "Name": "ESCOLHA A CONEXÃO",
-      "FLAG": "",
-      "Payload": "",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": ""
-    },
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS",
       "FLAG": "vivo",
