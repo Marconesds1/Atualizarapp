@@ -1,5 +1,5 @@
 {
-  "Version": "1",
+  "Version": "2",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -385,7 +385,7 @@
    {
       "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 1",
       "FLAG": "tim", 
-      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: websocket[lf][lf]", 
+      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: websocket[lf][lf]", 
       "SNI": "", 
       "TlsIP": "", 
       "ProxyIP": "172.64.154.143", 
@@ -395,7 +395,7 @@
        {
        "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 2",
             "FLAG": "tim",
-            "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: websocket[lf][lf]",
+            "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.18.33.113",
@@ -405,7 +405,7 @@
         {
             "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 3",
             "FLAG": "tim",
-            "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: websocket[lf][lf]",
+            "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.17.64.225",
@@ -415,7 +415,7 @@
             {
             "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 4",
          "FLAG":"tim",
-       "Payload":"PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: websocket[lf][lf]",
+       "Payload":"PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.19.239.25",
@@ -425,7 +425,7 @@
             {
           "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 5",
          "FLAG":"tim",
-       "Payload":"PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: websocket[lf][lf]",
+       "Payload":"PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.18.28.182",
@@ -435,7 +435,7 @@
        {
         "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 6",
       "FLAG": "tim", 
-      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: websocket[lf][lf]", 
+      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: websocket[lf][lf]", 
       "SNI": "", 
       "TlsIP": "", 
       "ProxyIP": "104.19.241.93", 
@@ -445,7 +445,7 @@
        {
       "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 7",
       "FLAG": "tim", 
-      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: websocket[lf][lf]", 
+      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: websocket[lf][lf]", 
       "SNI": "", 
       "TlsIP": "", 
       "ProxyIP": "104.19.239.25", 
@@ -455,7 +455,7 @@
        {
        "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 8",
       "FLAG": "tim", 
-      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: websocket[lf][lf]", 
+      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: websocket[lf][lf]", 
       "SNI": "", 
       "TlsIP": "", 
       "ProxyIP": "172.67.188.168", 
@@ -465,7 +465,7 @@
        {
        "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 9",
       "FLAG": "tim", 
-      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: websocket[lf][lf]", 
+      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: websocket[lf][lf]", 
       "SNI": "", 
       "TlsIP": "", 
       "ProxyIP": "104.18.99.70", 
@@ -475,7 +475,7 @@
       {
       "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 10",
             "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
+            "Payload": "ACL / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.18.28.182",
@@ -485,7 +485,7 @@
         {
             "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 11",
             "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
+            "Payload": "ACL / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.19.241.93",
@@ -495,7 +495,7 @@
     {
             "Name": "📌𝐓𝐈𝐌 𝐕𝐀𝐋𝐈𝐃𝐎 𝐄 𝐄𝐗𝐏𝐈𝐑𝐀𝐃𝐎 12",
             "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.1[lf]Host: br5.shop[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
+            "Payload": "ACL / HTTP/1.1[lf]Host: marconesds.online[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.19.239.25",
@@ -508,7 +508,7 @@
       "Payload": "MERGE p.adsymptotic.com HTTP/2.0[crlf]Host: p.adsymptotic.com [crlf]Connection: update, Keep-Alive-Status 101[crlf]Update: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)tlcomputingbr[crlf]Referer: http://www.google.com [crlf]", 
       "SNI": "", 
       "TlsIP": "", 
-      "ProxyIP": "164.152.243.184", 
+      "ProxyIP": "157.254.54.211", 
       "ProxyPort": "80", 
       "Info": "Proxy"
          },
@@ -518,7 +518,7 @@
             "Payload": "PROPPATCH http://mercadolivre.com.br HTTP/2[crlf]Host: http://mercadolivre.com.br[crlf]",
             "SNI": "ip10.new2infobox.xyz",
             "TlsIP": "",
-            "ProxyIP": "164.152.243.184",
+            "ProxyIP": "157.254.54.211",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -528,7 +528,7 @@
             "Payload": "MERGE indexer10.sjc.northshore.akamai.com HTTP/2.0[crlf]Host: indexer10.sjc.northshore.akamai.com [crlf]Connection: upgrade, Keep-Alive-Status 101[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)@mateuscmf[crlf]Referer: http://www.google.com[crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "164.152.243.184",
+            "ProxyIP": "157.254.54.211",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -538,7 +538,7 @@
             "Payload": "PROPPATCH www.reddit.com HTTP/1.0[crlf]Host: www.reddit.com[crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "164.152.243.184",
+            "ProxyIP": "157.254.54.211",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -548,7 +548,7 @@
             "Payload": "ACL HTTP/2[crlf]Host: plus.google.com[crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "164.152.243.184",
+            "ProxyIP": "157.254.54.211",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -558,7 +558,7 @@
             "Payload": "PROPFIND m.youtube.com.br HTTP/1.1[crlf]Host: m.youtube.com.br[crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "164.152.243.184",
+            "ProxyIP": "157.254.54.211",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -568,7 +568,7 @@
             "Payload": "ACL HTTP/1.1[lf]Host: google.es[lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "164.152.243.184",
+            "ProxyIP": "157.254.54.211",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -578,14 +578,14 @@
             "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": ",164.152.243.184",
+            "ProxyIP": ",157.254.54.211",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
       "Name": "📌𝗧𝗜𝗠  𝗘𝗫𝗣𝗜𝗥𝗔𝗗𝗢 8",
       "FLAG": "tim",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: br5.shop[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@RevTunnel[crlf][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@RevTunnel[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "tinyurl.com",
@@ -595,7 +595,7 @@
     {
       "Name":"📌𝗧𝗜𝗠  𝗘𝗫𝗣𝗜𝗥𝗔𝗗𝗢 9",
       "FLAG": "tim",
-      "Payload":"[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: br5.shop[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@canaldol[crlf][crlf]",
+      "Payload":"[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@canaldol[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP": "172.67.1.225",
@@ -608,7 +608,7 @@
       "Payload": "PATCH HTTP/1.1 [crlf]Host: map.qq.com[crlf]Connection: Keep-Alive[crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "164.152.243.184",
+      "ProxyIP": "157.254.54.211",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
