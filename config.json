@@ -1,5 +1,5 @@
 {
-  "Version": "7",
+  "Version": "8",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -25,7 +25,7 @@
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS 01",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Upgrade: Websocket[lf]Host: gedoc.vivo.com.br[crlf] [crlf]PATCH / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "141.193.213.11",
@@ -35,32 +35,32 @@
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS 02",
       "FLAG": "vivo",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Upgrade: Websocket[lf]Host: gedoc.vivo.com.br[crlf] [crlf]PATCH / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "141.193.213.11",
+      "ProxyPort": "80",
+      "Info": "BETA ( EM TESTE )"
+    },
+    {
+      "Name": "VIVO PRÉ TURBO 30 DIAS 03",
+      "FLAG": "vivo",
       "Payload": "[split]ACL / HTTP/1.1[crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "141.193.213.11",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "BETA ( EM TESTE )"
     },
     {
-      "Name": "VIVO PRÉ TURBO 30 DIAS 03",
+      "Name": "VIVO PRÉ TURBO 30 DIAS 04",
       "FLAG": "vivo",
       "Payload": "[split][lf][rotate=ACL;PUT;DELETE] / HTTP/1.1[crlf]Host: vigia.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "141.193.213.11",
       "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO PRÉ TURBO 30 DIAS 04",
-      "FLAG": "vivo",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "141.193.213.11",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "BETA ( EM TESTE )"
     },
     {
       "Name": "VIVO SECURITY 01",
@@ -80,7 +80,7 @@
       "TlsIP": "",
       "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
-      "Info": "Direct"
+      "Info": "MAIS RECOMENDADO"
     },
     {
       "Name": "VIVO SECURITY 03",
@@ -90,7 +90,7 @@
       "TlsIP": "",
       "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "MAIS RECOMENDADO"
     },
     {
       "Name": "VIVO SECURITY 04",
