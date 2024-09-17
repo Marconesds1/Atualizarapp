@@ -1,5 +1,5 @@
 {
-  "Version": "8",
+  "Version": "9",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -30,7 +30,7 @@
       "TlsIP": "",
       "ProxyIP": "141.193.213.11",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "FUNCIONANDO EM TODOS OS DDDS"
     },
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS 02",
@@ -70,7 +70,7 @@
       "TlsIP": "",
       "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "VIVO PRÉ PAGO"
     },
     {
       "Name": "VIVO SECURITY 02",
@@ -80,7 +80,7 @@
       "TlsIP": "",
       "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
-      "Info": "MAIS RECOMENDADO"
+      "Info": "VIVO PRÉ PAGO / MAIS RECOMENDADO"
     },
     {
       "Name": "VIVO SECURITY 03",
@@ -90,7 +90,7 @@
       "TlsIP": "",
       "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
-      "Info": "MAIS RECOMENDADO"
+      "Info": "VIVO PRÉ PAGO / MAIS RECOMENDADO"
     },
     {
       "Name": "VIVO SECURITY 04",
@@ -100,7 +100,7 @@
       "TlsIP": "",
       "ProxyIP": "185.194.204.109",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "VIVO PRÉ PAGO"
     },
     {
       "Name": "VIVO EASY / CONTROLE 01",
@@ -110,7 +110,7 @@
       "TlsIP": "",
       "ProxyIP": "172.64.150.8",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "VIVO PLANOS"
     },
     {
       "Name": "VIVO EASY / CONTROLE 02",
@@ -120,7 +120,7 @@
       "TlsIP": "",
       "ProxyIP": "104.18.37.248",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "VIVO PLANOS"
     },
     {
       "Name": "TIM ENGENTIM WS 1",
