@@ -1,5 +1,5 @@
 {
-  "Version": "9",
+  "Version": "1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -55,7 +55,7 @@
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS 04",
       "FLAG": "vivo",
-      "Payload": "[split][lf][rotate=ACL;PUT;DELETE] / HTTP/1.1[crlf]Host: vigia.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "[split][lf][rotate=ACL;PUT;DELETE] / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "141.193.213.11",
