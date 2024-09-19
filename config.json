@@ -1,5 +1,5 @@
 {
-  "Version": "1",
+  "Version": "2",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -536,7 +536,7 @@
         "Name": "📌𝗧𝗜𝗠  𝗘𝗫𝗣𝗜𝗥𝗔𝗗𝗢 1",
             "FLAG": "tim",
             "Payload": "PROPPATCH http://mercadolivre.com.br HTTP/2[crlf]Host: http://mercadolivre.com.br[crlf]",
-            "SNI": "ip10.new2infobox.xyz",
+            "SNI": "marconesds.online",
             "TlsIP": "",
             "ProxyIP": "185.194.204.109",
             "ProxyPort": "80",
