@@ -1,5 +1,5 @@
 {
-  "Version": "3",
+  "Version": "1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -30,7 +30,8 @@
       "TlsIP": "",
       "ProxyIP": "141.193.213.11",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Modo": "Proxy"
+      "Info": "TESTE"
     },
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS / 02",
