@@ -1,6 +1,6 @@
 
 {
-  "Version": "5",
+  "Version": "6",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
@@ -97,7 +97,6 @@
       "Name": "VIVO W/S 04",
       "FLAG": "vivo",
       "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
-",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "185.194.204.109",
