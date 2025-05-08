@@ -4,7 +4,7 @@
   "ReleaseNotes": "NOVA ATUALIZAÇÃO ENCONTRADA",
   "UrlUpdate": "https://raw.githubusercontent.com/Marconesds1/Atualizarapp/main/config.json",
   "Sms": "LINK DA MENSAGEM",
-  "EmailFeedback": "marconesfsb21@gmail.com",
+  "EmailFeedback": "marconesfsb78@gmail.com",
   "UrlContato": "t.me/Marcones_ds",
   "UrlTermos": "SEU TERMO AQUI",
   "CheckUser": "true",
@@ -23,6 +23,26 @@
     },
   ],
   "Networks": [
+    {
+      "Name": "VIVO CLOUDFLARE ALGUNS DDD 01",
+      "FLAG": "vivo",
+      "Payload": "PATCH wss://marconesds.online [protocol][lf]Host: marconesds.online[lf]Upgrade: websocket[crlf][split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "162.159.140.159;172.66.0.157;172.67.74.152;104.26.12.205",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO CLOUDFLARE ALGUNS DDD 02",
+      "FLAG": "vivo",
+      "Payload": "PATCH wss://marconesds.online [protocol][lf]Host: marconesds.online[lf]Upgrade: websocket[crlf][split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "162.159.140.159",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS / 01",
       "FLAG": "vivo",
