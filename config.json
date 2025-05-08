@@ -15,7 +15,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "marconesds.online",
-      "CheckUser": "http://185.194.205.81:5001/checkUser",
+      "CheckUser": "http://54.207.131.53:8888/server/online",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -89,7 +89,7 @@
       "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "185.194.205.81",
+      "ProxyIP": "54.207.131.53",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -99,7 +99,7 @@
       "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "185.194.205.81",
+      "ProxyIP": "54.207.131.53",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -109,7 +109,7 @@
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;mastercard.us;tim.com.br;vivo.com.br;claro.com.br;cloudflare.com.br;azure.com.br;condor.com.br;cnn.com;tiktok.com.br][crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "185.194.205.81",
+      "ProxyIP": "54.207.131.53",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -119,7 +119,7 @@
       "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "185.194.205.81",
+      "ProxyIP": "54.207.131.53",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -189,7 +189,7 @@
       "Payload": "HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf];[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf];[delay_split] [raw] [ssh]ACL;[delay_split][lf]ACL / HTTP/1.1 Websocket [lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf];HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf];ACL / HTTP/1.1[lf]Host: [host][lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
       "SNI": "",
       "TlsIP": "104.18.28.182;104.19.239.25;104.19.242.25;104.16.51.111;104;19.241.93;104.19.240.93;162.159.152.26;162.159.153.238;13.33.252.3;104.18.99.70;104.18.98.70;172.64.154.143;104;17.64.225;74.119.118.149;172.64.152.140;172.65.251.78;104.16.239.166;104.18.33.113;www.pruftechnik.com;www.oiplace.com.br;www.usclaro.com;www.beha-amprobe.com",
-      "ProxyIP": "185.194.205.81",
+      "ProxyIP": "54.207.131.53",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -198,7 +198,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.waze.com",
-      "TlsIP": "185.194.205.81",
+      "TlsIP": "54.207.131.53",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -208,7 +208,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "musicaclaro.com.br",
-      "TlsIP": "185.194.205.81",
+      "TlsIP": "54.207.131.53",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -218,7 +218,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "c.whatsapp.net",
-      "TlsIP": "185.194.205.81",
+      "TlsIP": "54.207.131.53",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -228,7 +228,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "web.whatsapp.com",
-      "TlsIP": "185.194.205.81",
+      "TlsIP": "54.207.131.53",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"    
@@ -238,7 +238,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "media.whatsapp.net",
-      "TlsIP": "185.194.205.81",
+      "TlsIP": "54.207.131.53",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -248,7 +248,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "twitter.com",
-      "TlsIP": "185.194.205.81",
+      "TlsIP": "54.207.131.53",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -258,7 +258,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.twitter.com",
-      "TlsIP": "185.194.205.81",
+      "TlsIP": "54.207.131.53",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
