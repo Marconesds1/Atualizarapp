@@ -14,7 +14,7 @@
       "Name": "BR PREMIUM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "marconesds.online",
+      "ServerIP": "ms.marconesds.online",
       "CheckUser": "http://18.231.220.111:8888/server/online",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -36,7 +36,7 @@
     {
       "Name": "VIVO CLOUDFLARE ALGUNS DDD 02",
       "FLAG": "vivo",
-      "Payload": "PATCH wss://marconesds.online [protocol][lf]Host: marconesds.online[lf]Upgrade: websocket[crlf][split][crlf]",
+      "Payload": "PATCH wss://marconesds.online [protocol][lf]Host: ms.marconesds.online[lf]Upgrade: websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "162.159.140.159",
@@ -46,7 +46,7 @@
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS / 01",
       "FLAG": "vivo",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: ms.marconesds.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "18.231.220.111",
