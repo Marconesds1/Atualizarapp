@@ -14,7 +14,7 @@
       "Name": "BR PREMIUM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "marconesds.online",
+      "ServerIP": "54.234.189.46",
       "CheckUser": "http://54.234.189.46:8888/server/online",
       "ServerPort": "22",
       "SSLPort": "443",
