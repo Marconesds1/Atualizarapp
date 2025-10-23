@@ -156,10 +156,10 @@
     {
       "Name": "TIM VÁLIDO / EXPIRADO 02",
       "FLAG": "tim",
-      "Payload": "PATCH / HTTP/1.1[crlf]Host: [rotate=checkout.timlive.tim.com.br;checkout.descomplica.com.br][crlf] [crlf]PATCH / HTTP/1.1[lf]Host: sisudragon.dragoncoressh.com[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf];ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: marconesds.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "Payload": "PATCH / HTTP/1.1[crlf]Host: [rotate=checkout.timlive.tim.com.br;checkout.descomplica.com.br][crlf] [crlf]PATCH / HTTP/1.1[lf]Host: sisudragon.dragoncoressh.com[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf];ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: sisudragon.dragoncoressh.com[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
       "TlsIP": "checkout.timlive.tim.com.br;checkout.descomplica.com.br;104.19.241.93",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -169,7 +169,7 @@
       "Payload": "PATCH / HTTP/1.1[crlf]Host: @ssh_t_project[crlf]Upgrade: websocket[crlf][crlf];HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\\\\\\\n\\\\\\\\n\\\\\\\\n \\\\\\\\n;ACL HTTP/1.1[lf]Host: google.es[lf];PUT / Cache-Control: private: Web-security[crlf];ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf];ACL / HTTP/1.1[crlf][crlf];PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf];HTTP/ 2[lf]Host: vivo.com;HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -179,7 +179,7 @@
       "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=yhjq23.360.com.fail;alt4.aspmx.l.google.com;www.xhtsw.163.com.fail;www.storm.canny.io;www.reimaginetomorrow-qa.disney.com;www.minecraft.msgfocus.com;www.netflixawards.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;aspmx.l.google.com.469.it. 20secondenhandenwassen.nl;aspmx.l.google.com.469.it;alt2.aspmx.l.google.com.0088.tv;alt1.aspmx.l.google.com.123sexshop.be;alt2.aspmx.l.google.com.sac-surveyors.org;alt2.aspmx.l.google.com.meta-meta.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]",
       "SNI": "",
       "TlsIP": "104.18.28.182;104.19.239.25;104.19.242.25;104.16.51.111;104;19.241.93;104.19.240.93;162.159.152.26;162.159.153.238;13.33.252.3;104.18.99.70;104.18.98.70;172.64.154.143;104;17.64.225;74.119.118.149;172.64.152.140;172.65.251.78;104.16.239.166;104.18.33.113;www.pruftechnik.com;www.oiplace.com.br;www.usclaro.com;www.beha-amprobe.com",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -189,7 +189,7 @@
       "Payload": "HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf];[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf];[delay_split] [raw] [ssh]ACL;[delay_split][lf]ACL / HTTP/1.1 Websocket [lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf];HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf];ACL / HTTP/1.1[lf]Host: [host][lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
       "SNI": "",
       "TlsIP": "104.18.28.182;104.19.239.25;104.19.242.25;104.16.51.111;104;19.241.93;104.19.240.93;162.159.152.26;162.159.153.238;13.33.252.3;104.18.99.70;104.18.98.70;172.64.154.143;104;17.64.225;74.119.118.149;172.64.152.140;172.65.251.78;104.16.239.166;104.18.33.113;www.pruftechnik.com;www.oiplace.com.br;www.usclaro.com;www.beha-amprobe.com",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -198,7 +198,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.waze.com",
-      "TlsIP": "54.234.189.46",
+      "TlsIP": "sisudragon.dragoncoressh.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -208,7 +208,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "musicaclaro.com.br",
-      "TlsIP": "54.234.189.46",
+      "TlsIP": "sisudragon.dragoncoressh.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -218,7 +218,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "c.whatsapp.net",
-      "TlsIP": "54.234.189.46",
+      "TlsIP": "sisudragon.dragoncoressh.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -228,7 +228,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "web.whatsapp.com",
-      "TlsIP": "54.234.189.46",
+      "TlsIP": "sisudragon.dragoncoressh.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"    
@@ -238,7 +238,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "media.whatsapp.net",
-      "TlsIP": "54.234.189.46",
+      "TlsIP": "sisudragon.dragoncoressh.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -248,7 +248,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "twitter.com",
-      "TlsIP": "54.234.189.46",
+      "TlsIP": "sisudragon.dragoncoressh.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -258,7 +258,7 @@
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.twitter.com",
-      "TlsIP": "54.234.189.46",
+      "TlsIP": "sisudragon.dragoncoressh.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
