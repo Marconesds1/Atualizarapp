@@ -11,11 +11,11 @@
   "UdpPort":"7100;7200;7300;7400;7500",
   "Servers": [
     {
-      "Name": "BR PREMIUM",
+      "Name": "SERVIDOR BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "54.234.189.46",
-      "CheckUser": "http://54.234.189.46:8888/server/online",
+      "ServerIP": "sisudragon.dragoncoressh.com",
+      "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -26,7 +26,7 @@
     {
       "Name": "VIVO CLOUDFLARE ALGUNS DDD 01",
       "FLAG": "vivo",
-      "Payload": "PATCH wss://marconesds.online [protocol][lf]Host: marconesds.online[lf]Upgrade: websocket[crlf][split][crlf]",
+      "Payload": "PATCH wss://sisudragon.dragoncoressh.com [protocol][lf]Host: sisudragon.dragoncoressh.com[lf]Upgrade: websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "162.159.140.159;172.66.0.157;172.67.74.152;104.26.12.205",
@@ -36,7 +36,7 @@
     {
       "Name": "VIVO CLOUDFLARE ALGUNS DDD 02",
       "FLAG": "vivo",
-      "Payload": "PATCH wss://marconesds.online [protocol][lf]Host: ms.marconesds.online[lf]Upgrade: websocket[crlf][split][crlf]",
+      "Payload": "PATCH wss://sisudragon.dragoncoressh.com [protocol][lf]Host: sisudragon.dragoncoressh.com[lf]Upgrade: websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "162.159.140.159",
@@ -46,20 +46,20 @@
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS / 01",
       "FLAG": "vivo",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: sisudragon.dragoncoressh.com[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS / 02",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Upgrade: Websocket[lf]Host: gedoc.vivo.com.br[crlf] [crlf]PATCH / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Upgrade: Websocket[lf]Host: gedoc.vivo.com.br[crlf] [crlf]PATCH / HTTP/1.1[crlf]Host: sisudragon.dragoncoressh.com[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -69,17 +69,17 @@
       "Payload": "[split]ACL / HTTP/1.1[crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
       "Name": "VIVO PRÉ TURBO 30 DIAS / 04",
       "FLAG": "vivo",
-      "Payload": "[split][lf][rotate=ACL;PUT;DELETE] / HTTP/1.1[crlf]Host: marconesds.online[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "[split][lf][rotate=ACL;PUT;DELETE] / HTTP/1.1[crlf]Host: sisudragon.dragoncoressh.com[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -89,7 +89,7 @@
       "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -99,7 +99,7 @@
       "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -109,7 +109,7 @@
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;mastercard.us;tim.com.br;vivo.com.br;claro.com.br;cloudflare.com.br;azure.com.br;condor.com.br;cnn.com;tiktok.com.br][crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -119,7 +119,7 @@
       "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -146,17 +146,17 @@
     {
       "Name": "TIM VÁLIDO / EXPIRADO 01",
       "FLAG": "tim",
-      "Payload": "PATCH / HTTP/1.1[crlf]Host: marconesds.online[crlf]X-Forward-Host: marconesds.online[crlf]wss://[crlf]Connection: upgrade[crlf]upgrade: websocket[realData][crlf][crlf]",
+      "Payload": "PATCH / HTTP/1.1[crlf]Host: sisudragon.dragoncoressh.com[crlf]X-Forward-Host: sisudragon.dragoncoressh.com[crlf]wss://[crlf]Connection: upgrade[crlf]upgrade: websocket[realData][crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "54.234.189.46",
+      "ProxyIP": "sisudragon.dragoncoressh.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
       "Name": "TIM VÁLIDO / EXPIRADO 02",
       "FLAG": "tim",
-      "Payload": "PATCH / HTTP/1.1[crlf]Host: [rotate=checkout.timlive.tim.com.br;checkout.descomplica.com.br][crlf] [crlf]PATCH / HTTP/1.1[lf]Host: marconesds.online[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf];ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: marconesds.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "Payload": "PATCH / HTTP/1.1[crlf]Host: [rotate=checkout.timlive.tim.com.br;checkout.descomplica.com.br][crlf] [crlf]PATCH / HTTP/1.1[lf]Host: sisudragon.dragoncoressh.com[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf];ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: marconesds.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
       "TlsIP": "checkout.timlive.tim.com.br;checkout.descomplica.com.br;104.19.241.93",
       "ProxyIP": "54.234.189.46",
